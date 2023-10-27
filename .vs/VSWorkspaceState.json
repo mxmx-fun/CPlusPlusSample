@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ClassSample",
+    "\\Counter",
+    "\\Counter\\Counter"
   ],
-  "SelectedNode": "\\Hello World",
+  "SelectedNode": "\\Counter\\Counter\\Counter.cpp",
   "PreviewInSolutionExplorer": false
 }

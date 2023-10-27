@@ -1,0 +1,10 @@
+# 忽略Debug文件夹
+Debug/
+
+# 忽略Visual Studio的相关文件和目录
+.vs/
+*.suo
+*.user
+*.sdf
+*.opensdf
+*.sln.docstates
